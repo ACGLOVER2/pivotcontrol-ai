@@ -156,3 +156,4 @@ Every audit begins with a completed intake form. Without it, the PCI score refle
 ---
 
 *Pivot Control Index™ is proprietary to PivotControl AI. All rights reserved.*
+**Related:** [Account Intelligence Layer](https://github.com/ACGLOVER2/account-intelligence-layer) — the schema and data model behind account-specific coaching
